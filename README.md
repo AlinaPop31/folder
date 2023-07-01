@@ -5,7 +5,7 @@ CE face proiectul meu:
 - feature 2
 
 
-Cum se executa:
+##Cum se executa: 
 
 - 'python my_project.py'
 - 
